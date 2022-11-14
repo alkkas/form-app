@@ -7,7 +7,7 @@ const typography: TypographyOptions = {
   },
   h1: {
     fontWeight: 500,
-    fontSize: 70,
+    fontSize: 60,
   },
 }
 

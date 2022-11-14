@@ -11,10 +11,10 @@ const MuiButton: Components<Theme>['MuiButton'] = {
           backgroundColor: purp,
         },
       }),
-      padding: '16px 55px',
+      padding: '12px 35px',
       fontWeight: 400,
       fontSize: 16,
-      borderRadius: 8,
+      borderRadius: 10,
     }),
   },
 }
